@@ -13,7 +13,7 @@ The client application(SPA) can be found inside `crud-client` directory
 
 General info about the client project:
 
-1. Google maps API is used to display the map. For Geocoding, Mapbox Geocoding API is used (as I cannot access the Google Geocoding API for free)
+1. Google maps API is used to display the map. For Geocoding, Mapbox Geocoding API is used
 2. React Hooks are used, useCountryInfoFetch() is a custom hook
 3. The project is written using ES6 syntax
 4. Field validations are NOT carried out
